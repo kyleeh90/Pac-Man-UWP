@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLibrary.GhostState">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAACAAACAAAAAABAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>States\GhostState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostIdle" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>States\GhostIdle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostChase" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>States\GhostChase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostDead" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAgAAAAEAAIQAAAAAAAAAEA=</HashCode>
+      <FileName>States\GhostDead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostEnteringHome" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>States\GhostEnteringHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostGoingHome" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>States\GhostGoingHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostHome" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>States\GhostHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostLeavingHome" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>States\GhostLeavingHome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GhostScatter" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>States\GhostScatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
